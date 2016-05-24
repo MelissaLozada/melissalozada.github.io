@@ -38,6 +38,7 @@ h1, h2, h3 {
 	background-position: center;
 	background-attachment: fixed;
 	
+	
 }
 .splash .content-holder {
 	height: 100%;
@@ -52,6 +53,7 @@ h1, h2, h3 {
 	font-size: 2em;
 	text-transform: uppercase;
 	color: #1e1e1e;
+
 }
 .splash .description {
 	align-self: center;
